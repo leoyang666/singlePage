@@ -1,0 +1,9 @@
+{
+  "router": {
+    "root": "home",
+    "welcome": "welcome"
+  },
+  "menuMap": {
+    "catalog1": "目录1"
+  }
+}
